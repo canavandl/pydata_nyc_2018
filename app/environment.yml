@@ -1,0 +1,8 @@
+name: pydata_nyc
+channels:
+  - bokeh
+  - conda-forge
+dependencies:
+  - python=3.6
+  - bokeh=0.13.0
+  - opencv=3.4.3
